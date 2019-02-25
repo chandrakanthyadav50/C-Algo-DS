@@ -1,0 +1,13 @@
+/Users/chandrakanthchittappa/Projects/CSharp/DoubleLinkedList/obj/x86/Debug/DoubleLinkedList.csproj.CoreCompileInputs.cache
+/Users/chandrakanthchittappa/Projects/CSharp/DoubleLinkedList/bin/Debug/DoubleLinkedList.exe
+/Users/chandrakanthchittappa/Projects/CSharp/DoubleLinkedList/bin/Debug/DoubleLinkedList.pdb
+/Users/chandrakanthchittappa/Projects/CSharp/DoubleLinkedList/obj/x86/Debug/DoubleLinkedList.exe
+/Users/chandrakanthchittappa/Projects/CSharp/DoubleLinkedList/obj/x86/Debug/DoubleLinkedList.pdb
+/Users/chandrakanthchittappa/Projects/CSharp/DoubleLinkedList/obj/x86/Debug/DoubleLinkedList.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\CSharp\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe.config
+C:\Users\HOME\Desktop\CSharp\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+C:\Users\HOME\Desktop\CSharp\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
+C:\Users\HOME\Desktop\CSharp\DoubleLinkedList\obj\x86\Debug\DoubleLinkedList.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\CSharp\DoubleLinkedList\obj\x86\Debug\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\CSharp\DoubleLinkedList\obj\x86\Debug\DoubleLinkedList.exe
+C:\Users\HOME\Desktop\CSharp\DoubleLinkedList\obj\x86\Debug\DoubleLinkedList.pdb

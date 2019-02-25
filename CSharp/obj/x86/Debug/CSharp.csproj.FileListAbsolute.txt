@@ -1,0 +1,6 @@
+/Users/chandrakanthchittappa/Projects/CSharp/CSharp/bin/Debug/CSharp.exe
+/Users/chandrakanthchittappa/Projects/CSharp/CSharp/bin/Debug/CSharp.pdb
+/Users/chandrakanthchittappa/Projects/CSharp/CSharp/obj/x86/Debug/CSharp.csprojAssemblyReference.cache
+/Users/chandrakanthchittappa/Projects/CSharp/CSharp/obj/x86/Debug/CSharp.csproj.CoreCompileInputs.cache
+/Users/chandrakanthchittappa/Projects/CSharp/CSharp/obj/x86/Debug/CSharp.exe
+/Users/chandrakanthchittappa/Projects/CSharp/CSharp/obj/x86/Debug/CSharp.pdb
